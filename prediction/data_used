@@ -1,0 +1,8 @@
+To test the model for recognizing emotions we used voice data from RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song). 
+
+Link: https://zenodo.org/record/1188976
+
+It contains voice recordings of 12 actors and 12 actresses. Each recording represents one of the following emotions: neutral, calm, happy, sad, angry, fearful, disgust, surprised (represented by last 2 digits of filename).
+The data contains both speech and song versions of which we only used the speech version. 
+
+The author of the model has made use of both RAVDESS and SAVEE datasets. 

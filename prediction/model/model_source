@@ -1,0 +1,4 @@
+To predict the emotion of callers, we have made use of a pre-trained model from https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+File with model weights and model.json has been obtained from the github page.
+
+The code has been referred from the same source.
